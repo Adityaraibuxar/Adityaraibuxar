@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya Rai
 - 👀 I’m interested in Works related to Data Science Field.
-- 🌱 I’m currently learning PGP in Data Science
+- 🌱 I’m currently working as a data scientist at data science wizards 
 - 📫 Reach me on my email id- adityaraibuxar@gmail.com
 - 📞 Contact me on - 9155497089
 - 🔗 https://www.linkedin.com/in/aditya-rai-376381151/
